@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m Mariyam Asif!<br>🌍  I'm based in Pakistan<br>✉️  You can contact me at mariyamasif530@gmail.com<br>🧠 I’m currently learning Python, with strong frontend expertise, and diving into backend development. 🚀<br>🤝  I'm open to collaborating on full-stack projects and innovative tech ideas.
+👋 Hi there! I’m Mariyam Asif!<br>🌍  I'm based in Pakistan<br> 🧠 I’m currently learning Python, with strong frontend expertise, and diving into backend development. 🚀<br>🤝  I'm open to collaborating on full-stack projects and innovative tech ideas.<br>✉️  You can contact me at mariyamasif530@gmail.com
 
 
 ## 🌐 Socials:
