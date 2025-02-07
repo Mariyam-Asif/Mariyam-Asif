@@ -1,12 +1,19 @@
 # 💫 About Me:
 👋 Hi there! I’m Mariyam Asif!<br>🌍  I'm based in Pakistan<br> 🧠 I’m currently learning Python, with strong frontend expertise, and diving into backend development. 🚀<br>🤝  I'm open to collaborating on full-stack projects and innovative tech ideas.<br>✉️  You can contact me at mariyamasif530@gmail.com
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mariyamasif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mariyamasif/" height="30" width="40" /></a>
 
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mariyamasif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mariyamasif/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mariyamasif/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+    alt="LinkedIn - Mariyam Asif" height="30" width="40" />
+  </a>
+  
+  <a href="https://github.com/MariyamAsif" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
+    alt="GitHub - Mariyam Asif" height="30" width="40" />
+  </a>
 </p>
 
 # 💻 Tech Stack:
