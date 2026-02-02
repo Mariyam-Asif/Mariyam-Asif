@@ -1,17 +1,32 @@
-🔭 I’m currently working on:
-AI-assisted full-stack web and mobile applications using TypeScript, React, Next.js, and Python.
+# 💫 About Me:
+👋 Hi there! I’m Mariyam Asif!<br>🌍  I'm based in Pakistan<br> 🧠 I’m currently learning Python, with strong frontend expertise, and diving into backend development.<br>🤝  I'm open to collaborating on full-stack projects and innovative tech ideas.<br>✉️  You can contact me at mariyamasif530@gmail.com
 
-👯 I’m looking to collaborate on:
-Open-source or real-world React and Next.js projects with a focus on clean frontend architecture.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-🤝 I’m looking for help with:
-Improving backend architecture, API design, and production-ready deployment workflows.
+## 🌐 Socials:
+<p align="left">
+<a href="https://www.linkedin.com/in/mariyamasif/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+    alt="LinkedIn Mariyam Asif" height="30" width="40" />
+  </a>
+  
+  <a href="https://github.com/MariyamAsif" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
+    alt="GitHub Mariyam Asif" height="30" width="40" />
+  </a>
+</p>
 
-🌱 I’m currently learning:
-Backend architecture, scalable APIs, production deployments, and AI-assisted full-stack workflows.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mariyam-Asif&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mariyam-Asif&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyam-Asif&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-💬 Ask me about:
-React, Next.js, TypeScript fundamentals, frontend architecture, and modern project setups.
 
-📫 How to reach me:
-mariyamasif530@gmail.com
+### 🔮 Code Philosophy
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Mariyam-Asif&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
