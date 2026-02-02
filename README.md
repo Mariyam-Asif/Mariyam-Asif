@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>AI-assisted full-stack web and mobile applications using TypeScript, React, Next.js, and Python.<br><br>👯 I’m looking to collaborate on:<br>Open-source or real-world React and Next.js projects with a focus on clean frontend architecture.<br><br>🤝 I’m looking for help with:<br>Improving backend architecture, API design, and production-ready deployment workflows.<br><br>🌱 I’m currently learning:<br>Backend architecture, scalable APIs, production deployments, and AI-assisted full-stack workflows.<br><br>💬 Ask me about:<br>React, Next.js, TypeScript fundamentals, frontend architecture, and modern project setups.
+🔭 I’m currently working on:<br>AI-assisted full-stack web and mobile applications using TypeScript, React, Next.js, and Python.<br>👯 I’m looking to collaborate on:<br>Open-source or real-world React and Next.js projects with a focus on clean frontend architecture.<br>🤝 I’m looking for help with:<br>Improving backend architecture, API design, and production-ready deployment workflows.<br>🌱 I’m currently learning:<br>Backend architecture, scalable APIs, production deployments, and AI-assisted full-stack workflows.<br>💬 Ask me about:<br>React, Next.js, TypeScript fundamentals, frontend architecture, and modern project setups.
 
 
 ## 🌐 Socials:
