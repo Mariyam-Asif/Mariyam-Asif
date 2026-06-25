@@ -3,11 +3,6 @@
 **`Building Thoughtful Digital Experiences`**
 
 I am a Frontend Developer who enjoys turning ideas into fast, accessible, and scalable web applications with Next.js, React, and TypeScript. My work combines clean engineering, thoughtful user experiences, and performance-focused development, while I continue expanding into Agentic AI Systems Development and intelligent software systems.
-
-
-## 🌐 Socials:
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mariyamasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariyamasif" height="30" width="40" /></a>
 </p>
