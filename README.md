@@ -1,12 +1,8 @@
-# 💫 About Me:
+# 💫 Mariyam Asif:
 
-Full-stack developer building modern web and mobile applications with strong core fundamentals.
+**`Building Thoughtful Digital Experiences`**
 
-- 🔭 **Currently working on:** AI-assisted full-stack apps using TypeScript, React, Next.js, and Python  
-- 👯 **Open to collaboration:** Open-source or real-world React & Next.js projects focused on clean frontend architecture  
-- 🤝 **Looking for help with:** Backend architecture, API design, and production-ready deployment workflows  
-- 🌱 **Currently learning:** Backend architecture, scalable APIs, and production deployments  
-- 💬 **Ask me about:** React, Next.js, TypeScript, frontend architecture, and modern project setups
+I am a Frontend Developer who enjoys turning ideas into fast, accessible, and scalable web applications with Next.js, React, and TypeScript. My work combines clean engineering, thoughtful user experiences, and performance-focused development, while I continue expanding into Agentic AI Systems Development and intelligent software systems.
 
 
 ## 🌐 Socials:
