@@ -4,7 +4,7 @@
 
 I am a Frontend Developer who enjoys turning ideas into fast, accessible, and scalable web applications with Next.js, React, and TypeScript. My work combines clean engineering, thoughtful user experiences, and performance-focused development, while I continue expanding into Agentic AI Systems Development and intelligent software systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mariyamasif/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mariyamasif530@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariyamasif/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mariyamasif530@gmail.com) 
 
 ---
 
