@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Project Banner" width="100%">
+</p>
+
 # 💫 Mariyam Asif:
 
 **`Building Thoughtful Digital Experiences`**
