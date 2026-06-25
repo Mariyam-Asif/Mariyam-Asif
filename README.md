@@ -21,7 +21,7 @@ I am a Frontend Developer who enjoys turning ideas into fast, accessible, and sc
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="center" align="center">
 
 <img src="assets/ECOMMERCE_PROJECT.png" alt="Pixel-Perfect eCommerce Platform" width="100%" />
 
