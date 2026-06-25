@@ -27,7 +27,7 @@ I am a Frontend Developer who enjoys turning ideas into fast, accessible, and sc
 
 ### Pixel-Perfect eCommerce Platform
 
-Production-ready eCommerce storefront built with Next.js & TypeScript, achieving a **95+ Lighthouse Performance Score**.
+Production-ready eCommerce storefront built with Next.js and TypeScript, achieving a **95+ Lighthouse Performance Score**.
 
 <a href="LIVE_DEMO_LINK">🌐 Live Demo</a> •
 <a href="SOURCE_CODE_LINK">💻 Source Code</a>
@@ -40,7 +40,7 @@ Production-ready eCommerce storefront built with Next.js & TypeScript, achieving
 
 ### Scalable Marketplace Platform
 
-CMS-driven marketplace built with Next.js & Sanity CMS, enabling non-technical users to manage content independently.
+CMS-driven marketplace built with Next.js and Sanity CMS, enabling non-technical content management.
 
 <a href="LIVE_DEMO_LINK">🌐 Live Demo</a> •
 <a href="SOURCE_CODE_LINK">💻 Source Code</a>
