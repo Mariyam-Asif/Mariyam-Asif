@@ -23,13 +23,11 @@ I am a Frontend Developer who enjoys turning ideas into fast, accessible, and sc
 <tr>
 <td width="50%" valign="top">
 
-<img src="YOUR_THUMBNAIL_URL_1" alt="Pixel-Perfect eCommerce Platform" width="100%" />
+<img src="assets/ECOMMERCE_PROJECT.png" alt="Pixel-Perfect eCommerce Platform" width="100%" />
 
 ### Pixel-Perfect eCommerce Platform
 
-Production-ready eCommerce storefront built from a Figma design using Next.js, React, TypeScript, and Tailwind CSS.
-
-🚀 Achieved a **95+ Lighthouse Performance Score** while delivering a fully responsive and accessible shopping experience.
+Production-ready eCommerce storefront built with Next.js and TypeScript, achieving a **95+ Lighthouse Performance Score**.
 
 <a href="LIVE_DEMO_LINK">🌐 Live Demo</a> •
 <a href="SOURCE_CODE_LINK">💻 Source Code</a>
@@ -38,13 +36,11 @@ Production-ready eCommerce storefront built from a Figma design using Next.js, R
 
 <td width="50%" valign="top">
 
-<img src="YOUR_THUMBNAIL_URL_2" alt="Scalable Marketplace Platform" width="100%" />
+<img src="assets/MARKETPLACE_PROJECT.png" alt="Scalable Marketplace Platform" width="100%" />
 
 ### Scalable Marketplace Platform
 
-CMS-driven marketplace application powered by Next.js, TypeScript, Sanity CMS, and API integrations.
-
-⚡ Enabled non-technical users to manage marketplace content through a structured CMS architecture and dynamic content workflows.
+CMS-driven marketplace platform built with Next.js and Sanity CMS, enabling non-technical users to manage content independently.
 
 <a href="LIVE_DEMO_LINK">🌐 Live Demo</a> •
 <a href="SOURCE_CODE_LINK">💻 Source Code</a>
