@@ -21,7 +21,7 @@ I am a Frontend Developer who enjoys turning ideas into fast, accessible, and sc
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" align="center">
 
 <img src="assets/ECOMMERCE_PROJECT.png" alt="Pixel-Perfect eCommerce Platform" width="100%" />
 
@@ -34,7 +34,7 @@ Production-ready eCommerce storefront built with Next.js and TypeScript, achievi
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" align="center">
 
 <img src="assets/MARKETPLACE_PROJECT.png" alt="Scalable Marketplace Platform" width="100%" />
 
