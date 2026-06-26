@@ -32,10 +32,14 @@ Currently expanding into Agentic AI Systems Development.
 
 Production-ready eCommerce storefront built with Next.js and TypeScript, achieving a **95+ Lighthouse Performance Score**.
 
-- ⚡ 95+ Lighthouse Performance
-- 📱 Responsive across all devices
-- ♿ WCAG-compliant accessibility
-- 🧩 Reusable component architecture
+**Highlights**
+- 95+ Lighthouse Performance
+- Responsive across all devices
+- WCAG-compliant accessibility
+- Reusable component architecture
+  
+**Tech Stack** 
+`Next.js` • `React` • `TypeScript` • `Tailwind CSS` • `Vercel`
 
 <a href="https://nextjs-design-hackathon.vercel.app/">🌐 Live Demo</a> •
 <a href="https://github.com/Mariyam-Asif/nextjs-design-hackathon">💻 Source Code</a>
@@ -47,6 +51,14 @@ Production-ready eCommerce storefront built with Next.js and TypeScript, achievi
 ### Scalable Marketplace Platform
 
 CMS-driven marketplace built with Next.js and Sanity CMS, enabling non-technical content management.
+
+**Highlights**
+- Dynamic CMS-driven content
+- REST API integrations
+- Custom Sanity schemas
+- Scalable marketplace architecture
+  
+**Tech Stack** `Next.js` • `TypeScript` • `Sanity CMS` • `REST APIs` • `Vercel`
 
 <a href="https://nextjs-design-hackathon.vercel.app/">🌐 Live Demo</a> •
 <a href="https://github.com/Mariyam-Asif/nextjs-design-hackathon">💻 Source Code</a>
