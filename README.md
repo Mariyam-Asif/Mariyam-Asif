@@ -2,11 +2,14 @@
   <img src="assets/banner.png" alt="Project Banner" width="100%">
 </p>
 
-# 💫 Mariyam Asif:
+# 💫 Mariyam Asif
 
 **`Building Thoughtful Digital Experiences`**
 
-I am a Frontend Developer who enjoys turning ideas into fast, accessible, and scalable web applications with Next.js, React, and TypeScript. My work combines clean engineering, thoughtful user experiences, and performance-focused development, while I continue expanding into Agentic AI Systems Development and intelligent software systems.
+Frontend Developer building fast, accessible, and scalable web applications with 
+Next.js, React, and TypeScript. My work combines clean engineering with thoughtful 
+user experience, every project ships with performance as a non-negotiable. 
+Currently expanding into Agentic AI Systems Development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariyamasif/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mariyamasif530@gmail.com) 
 
@@ -28,6 +31,11 @@ I am a Frontend Developer who enjoys turning ideas into fast, accessible, and sc
 ### Pixel-Perfect eCommerce Platform
 
 Production-ready eCommerce storefront built with Next.js and TypeScript, achieving a **95+ Lighthouse Performance Score**.
+
+- ⚡ 95+ Lighthouse Performance
+- 📱 Responsive across all devices
+- ♿ WCAG-compliant accessibility
+- 🧩 Reusable component architecture
 
 <a href="https://nextjs-design-hackathon.vercel.app/">🌐 Live Demo</a> •
 <a href="https://github.com/Mariyam-Asif/nextjs-design-hackathon">💻 Source Code</a>
