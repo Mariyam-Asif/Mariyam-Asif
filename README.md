@@ -47,6 +47,8 @@ CMS-driven marketplace built with Next.js and Sanity CMS, enabling non-technical
 </tr>
 </table>
 
+---
+
 ### Contribution Graph:
 
 <picture>
@@ -63,8 +65,6 @@ CMS-driven marketplace built with Next.js and Sanity CMS, enabling non-technical
     src="https://raw.githubusercontent.com/Mariyam-Asif/Mariyam-Asif/pacman-output/pacman-contribution-graph.svg"
   />
 </picture>
-
----
 
 ---
 
