@@ -24,7 +24,6 @@ I am a Frontend Developer who enjoys turning ideas into fast, accessible, and sc
 <td width="50%" align="center">
 <img src="assets/ECOMMERCE_PROJECT.png" alt="Pixel-Perfect eCommerce Platform" width="100%" />
 <br/>
-<br/>
 
 ### Pixel-Perfect eCommerce Platform
 Production-ready eCommerce storefront built with Next.js and TypeScript, achieving a **95+ Lighthouse Performance Score**.
@@ -47,6 +46,7 @@ CMS-driven marketplace built with Next.js and Sanity CMS, enabling non-technical
 
 <a href="LIVE_DEMO_LINK">🌐 Live Demo</a> •
 <a href="SOURCE_CODE_LINK">💻 Source Code</a>
+<br/>
 <br/>
 </td>
 </tr>
