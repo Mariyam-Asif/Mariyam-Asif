@@ -38,7 +38,7 @@ Production-ready eCommerce storefront built with Next.js and TypeScript, achievi
 
 ### Scalable Marketplace Platform
 
-CMS-driven marketplace built with Next.js and Sanity CMS, enabling non-technical users to manage content independently.
+CMS-driven marketplace built with Next.js and Sanity CMS, enabling non-technical content management.
 
 <a href="LIVE_DEMO_LINK">🌐 Live Demo</a> •
 <a href="SOURCE_CODE_LINK">💻 Source Code</a>
