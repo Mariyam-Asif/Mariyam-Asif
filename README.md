@@ -47,7 +47,32 @@ CMS-driven marketplace built with Next.js and Sanity CMS, enabling non-technical
 </tr>
 </table>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mariyam-Asif&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mariyam-Asif&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyam-Asif&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Contribution Graph:
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mariyam-Asif/Mariyam-Asif/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mariyam-Asif/Mariyam-Asif/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mariyam-Asif/Mariyam-Asif/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+---
+
+### Currently:
+
+- 🔨 **Building:** Production-ready frontend projects with Next.js, React.js & TypeScript
+- 🤖 **Learning:** Agentic AI Systems Development - Prompt Engineering & Context Engineering
+- 💼 **Open to:** Frontend roles · Internships · Freelance projects · Remote work
+
+---
+
+### Let's Connect:
+
+I'm open to frontend roles, freelance projects, and collaborations with people building things that matter.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariyamasif)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariyamasif530@gmail.com)
+
+---
+<div align="center">
+<i>Built with obsession over every detail — just like my code.</i>
+</div>
