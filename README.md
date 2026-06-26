@@ -22,9 +22,7 @@ I am a Frontend Developer who enjoys turning ideas into fast, accessible, and sc
 <table>
 <tr>
 <td width="50%" align="center">
-
 <img src="assets/ECOMMERCE_PROJECT.png" alt="Pixel-Perfect eCommerce Platform" width="100%" />
-
 <br>
 
 ### Pixel-Perfect eCommerce Platform
@@ -36,14 +34,11 @@ Production-ready eCommerce storefront built with Next.js and TypeScript, achievi
 <a href="LIVE_DEMO_LINK">🌐 Live Demo</a> •
 <a href="SOURCE_CODE_LINK">💻 Source Code</a>
 
-<br><br>
-
+<br/>
 </td>
 
 <td width="50%" align="center">
-
 <img src="assets/MARKETPLACE_PROJECT.png" alt="Scalable Marketplace Platform" width="100%" />
-
 <br>
 
 ### Scalable Marketplace Platform
@@ -55,8 +50,7 @@ CMS-driven marketplace built with Next.js and Sanity CMS, enabling non-technical
 <a href="LIVE_DEMO_LINK">🌐 Live Demo</a> •
 <a href="SOURCE_CODE_LINK">💻 Source Code</a>
 
-<br><br>
-
+<br/>
 </td>
 </tr>
 </table>
