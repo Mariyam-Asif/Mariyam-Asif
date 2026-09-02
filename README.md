@@ -46,16 +46,16 @@ Production-ready eCommerce storefront built with Next.js and TypeScript, achievi
 <td width="50%" align="center">
 <img src="assets/MARKETPLACE_PROJECT.png" alt="Scalable Marketplace Platform" width="100%" />
 
-### Scalable Marketplace Platform
+### Beenish Rashid Salon & Studio — Luxury Salon Website
 
-CMS-driven marketplace built with Next.js and Sanity CMS, enabling non-technical content management.
+A modern, elegant website designed to elevate Beenish Rashid Salon & Studio’s online presence. Built to showcase its services, beauty work, and client trust while encouraging new inquiries.
 
-- Dynamic CMS-driven content
-- REST API integrations
-- Custom Sanity schemas
-- Scalable marketplace architecture
+- Premium Warm Elegant Spa visual design.
+- Showcases the salon's 4.8★ rating and 201 reviews.
+- Clear service, gallery, and contact experiences.
+- Fully responsive across mobile, tablet, and desktop.
   
-`Next.js` • `TypeScript` • `Sanity CMS` • `REST APIs` • `Vercel`
+`Next.js` • `TypeScript` • `React` • `Tailwind CSS` • `Vercel`
 
 <a href="https://nextjs-design-hackathon.vercel.app/">🌐 Live Demo</a> •
 <a href="https://github.com/Mariyam-Asif/nextjs-design-hackathon">💻 Source Code</a>
