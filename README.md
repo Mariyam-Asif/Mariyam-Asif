@@ -28,14 +28,14 @@ Currently expanding into Agentic AI Systems Development.
 
 <img src="assets/ECOMMERCE_PROJECT.png" alt="Pixel-Perfect eCommerce Platform" width="100%" />
 
-### Pixel-Perfect eCommerce Platform
+### Furniro - Modern Furniture E-Commerce Storefront
 
-Production-ready eCommerce storefront built with Next.js and TypeScript, achieving a **95+ Lighthouse Performance Score**.
+Production-ready furniture storefront built with Next.js and TypeScript, delivering a polished shopping experience with 95+ Lighthouse Performance and a strong focus on speed, accessibility, and responsive design.
 
-- 95+ Lighthouse Performance
-- Responsive across all devices
-- WCAG-compliant accessibility
-- Reusable component architecture
+- 95+ Lighthouse Performance for a fast storefront.
+- Fully responsive across mobile, tablet, and desktop.
+- WCAG-compliant accessibility for an inclusive experience.
+- Reusable components built for scalability.
   
 `Next.js` • `React` • `TypeScript` • `Tailwind CSS` • `Vercel`
 
@@ -44,9 +44,9 @@ Production-ready eCommerce storefront built with Next.js and TypeScript, achievi
 
 </td>
 <td width="50%" align="center">
-<img src="assets/MARKETPLACE_PROJECT.png" alt="Scalable Marketplace Platform" width="100%" />
+<img src="assets/salon-website.png" alt="Scalable Marketplace Platform" width="100%" />
 
-### Beenish Rashid Salon & Studio — Luxury Salon Website
+### Beenish Rashid Salon & Studio - Luxury Salon Website
 
 A modern, elegant website designed to elevate Beenish Rashid Salon & Studio’s online presence. Built to showcase its services, beauty work, and client trust while encouraging new inquiries.
 
@@ -57,8 +57,7 @@ A modern, elegant website designed to elevate Beenish Rashid Salon & Studio’s 
   
 `Next.js` • `TypeScript` • `React` • `Tailwind CSS` • `Vercel`
 
-<a href="https://nextjs-design-hackathon.vercel.app/">🌐 Live Demo</a> •
-<a href="https://github.com/Mariyam-Asif/nextjs-design-hackathon">💻 Source Code</a>
+<a href="https://beenish-rashid-salon.vercel.app/">🌐 Live Demo</a> •
 
 </td>
 </tr>
