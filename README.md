@@ -57,7 +57,7 @@ A modern, elegant website designed to elevate Beenish Rashid Salon & Studio’s 
   
 `Next.js` • `TypeScript` • `React` • `Tailwind CSS` • `Vercel`
 
-<a href="https://beenish-rashid-salon.vercel.app/">🌐 Live Demo</a> •
+<a href="https://beenish-rashid-salon.vercel.app/">🌐 Live Demo</a>
 
 </td>
 </tr>
